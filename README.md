@@ -8,7 +8,7 @@ To start building your own components and styles, follow these steps:
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/aakash-code98/edunet-ey-internship.git
+    git clone https://github.com/aakash-code98/p4_week1.git
     ```
 
 1. Install the required packages.
